@@ -10,6 +10,6 @@ The main proposal is to get quick information about the class that is debugging 
 
 This demo running is similar as you can see in this image:
 
-[Separator](/images/DebuggerDisplayDemo.png)
+![Separator](/images/DebuggerDisplayDemo.png)
 
 > This information is related on my blog http://geeks.ms/jorge/.
